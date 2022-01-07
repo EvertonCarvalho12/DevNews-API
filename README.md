@@ -9,7 +9,7 @@
 
 ---
 
-## Sobre o Projeto
+## Sobre o Projeto 
 
 Esta api fornece tudo o que é necessário para cadastrar e gerenciar notícias.
 
